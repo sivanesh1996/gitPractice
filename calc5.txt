@@ -1,1 +1,2 @@
 add fn by addDup
+1+15=16
